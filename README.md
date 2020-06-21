@@ -18,3 +18,12 @@ Or you can download the .zip file directly, extract and place it in your `~/.oh-
 After you have placed the file in the aforementioned directory, just edit your `.zshrc` file andchange the `ZSH_THEME` to `classyTouch`
 
 If you run into any issues or have any questions or concerns, feel free to let me know.
+
+## Vil Rodriguez Modification
+Hello!, I really like the original them for oh-my-zsh, started playing A LOT with it and ended up with this modified version of it.
+
+![WayTooMuchModified-classyTouch](https://raw.githubusercontent.com/vilrodriguez/classyTouch_oh-my-zsh/master/modified.PNG)
+
+Feel free to open the file on VsCode and delete de " ° w°~" emoji face if you wish.
+
+And please don´t forget to pass by the original repo of the theme to give it all the stars it deserves ⭐
