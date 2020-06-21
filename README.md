@@ -20,7 +20,7 @@ After you have placed the file in the aforementioned directory, just edit your `
 If you run into any issues or have any questions or concerns, feel free to let me know.
 
 ## Vil Rodriguez Modification
-Hello!, I really like the original them for oh-my-zsh, started playing A LOT with it and ended up with this modified version of it.
+Hello!, I really liked the original theme for oh-my-zsh, and after a while started playing A LOT with it and ended up with this modified version.
 
 ![WayTooMuchModified-classyTouch](https://raw.githubusercontent.com/vilrodriguez/classyTouch_oh-my-zsh/master/modified.PNG)
 
